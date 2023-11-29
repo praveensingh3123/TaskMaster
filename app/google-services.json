@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "666160304238",
+    "project_id": "taskmaster-59f5a",
+    "storage_bucket": "taskmaster-59f5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666160304238:android:be1eaec566f68ddd17567f",
+        "android_client_info": {
+          "package_name": "edu.bu.taskmaster"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrE3xxSg7IkzHeMkjp40bFsIENsaEBF-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
